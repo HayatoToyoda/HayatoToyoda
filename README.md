@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=HayatoToyoda)](https://github.com/ryo-ma/github-profile-trophy)
+
+![3D GitHub Contribution Graph](profile-3d-contrib/profile-green-animate.svg)

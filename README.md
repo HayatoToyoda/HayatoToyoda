@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![HayatoToyoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=HayatoToyoda&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![3D GitHub Contribution Graph](profile-3d-contrib/profile-green-animate.svg)
+<img src="profile-3d-contrib/profile-green-animate.svg" width="600">

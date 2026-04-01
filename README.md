@@ -26,4 +26,3 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-**[Meadow デモ](https://HayatoToyoda.github.io/githubToGallery/meadow/)**

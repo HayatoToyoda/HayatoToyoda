@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 <table align="center">
   <tr>
-    <td align="center">
+    <!-- <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=HayatoToyoda&show_icons=true&theme=tokyonight" width="450">
-    </td>
+    </td> -->
     <td align="center">
       <img src="profile-3d-contrib/profile-green-animate.svg" width="450">
     </td>
